@@ -21,32 +21,6 @@ This repository is a personal library of Computer Science reference books, textb
 
 > **Note:** These books are shared for personal, educational use. Please support the authors and publishers by purchasing their work where possible.
 
-## 📑 Table of Contents
-
-| # | Topic | Books |
-|---|---|---|
-| 1 | [🤖 AI](#-ai) | 4 |
-| 2 | [🏛️ Architecture](#️-architecture) | 4 |
-| 3 | [🔤 C](#-c) | 2 |
-| 4 | [🔐 Cryptography](#-cryptography) | 3 |
-| 5 | [☁️ Cloud Computing](#️-cloud-computing) | 8 |
-| 6 | [⚙️ Compiler](#️-compiler) | 1 |
-| 7 | [🗄️ DBMS](#️-dbms) | 2 |
-| 8 | [🔁 DevOps](#-devops) | 7 |
-| 9 | [➗ Discrete Mathematics](#-discrete-mathematics) | 2 |
-| 10 | [🐹 Golang](#-golang) | 4 |
-| 11 | [☕ Java](#-java) | 2 |
-| 12 | [🐧 Linux](#-linux) | 8 |
-| 13 | [🌐 Networking](#-networking) | 4 |
-| 14 | [🖥️ OS](#️-os) | 2 |
-| 15 | [🐍 Python](#-python) | 3 |
-| 16 | [🦀 Rust](#-rust) | 1 |
-| 17 | [🛠️ Software Engineering](#️-software-engineering) | 13 |
-| 18 | [🏗️ System Design](#️-system-design) | 6 |
-| 19 | [🕸️ Web Dev](#️-web-dev) | 15 |
-
-**Total: 91 books**
-
 ### 📊 Collection at a glance
 
 | Topic | | Count |
@@ -57,17 +31,17 @@ This repository is a personal library of Computer Science reference books, textb
 | Linux | ▰▰▰▰▰▰▰▰ | 8 |
 | DevOps | ▰▰▰▰▰▰▰ | 7 |
 | System Design | ▰▰▰▰▰▰ | 6 |
-| AI · Architecture · Golang · Networking | ▰▰▰▰ | 4 |
-| Cryptography · Python | ▰▰▰ | 3 |
-| C · DBMS · Java · OS · Discrete Math | ▰▰ | 2 |
-| Compiler · Rust | ▰ | 1 |
+| AI · Architecture · Golang · Networking | ▰▰▰▰ | 4 each |
+| Cryptography · Python | ▰▰▰ | 3 each |
+| C · DBMS · Java · OS · Discrete Math | ▰▰ | 2 each |
+| Compiler · Rust | ▰ | 1 each |
 
 <sub>Each ▰ ≈ 1 book. Web Dev and Software Engineering are, unsurprisingly, where the shelf sags the most.</sub>
 
 ---
 
 <details open>
-<summary><h2>🤖 AI </sub></h2></summary>
+<summary><h2>🤖 AI <sub>(4)</sub></h2></summary>
 
 - [AI Engineering](./AI/AI%20Engineering.pdf)
 - [Artificial Intelligence For Dummies](./AI/Artificial%20Intelligence%20For%20Dummies.pdf)
@@ -76,7 +50,7 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>🏛️ Architecture </h2></summary>
+<summary><h2>🏛️ Architecture <sub>(4)</sub></h2></summary>
 
 - [Advanced Computer Architecture: Parallelism](./Architecture/ADVANCED_COMPUTER_ARCHITECTURE_PARALLELI.pdf)
 - [Computer Architecture, 6th Edition — A Quantitative Approach](<./Architecture/Computer Architecture, Sixth Edition_ A Quantitative Approach ( PDFDrive ).pdf>)
@@ -85,14 +59,14 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>🔤 C </h2</summary>
+<summary><h2>🔤 C <sub>(2)</sub></h2></summary>
 
 - [The C Book](./C/C-book.pdf)
 - [Programming in ANSI C — E. Balagurusamy](<./C/Programming in ANSI C (E Balagurusamy).pdf>)
 </details>
 
 <details>
-<summary><h2>🔐 Cryptography </h2></summary>
+<summary><h2>🔐 Cryptography <sub>(3)</sub></h2></summary>
 
 - [Cryptography and Network Security — Atul Kahate](./CRYPTOGRAPHY/Atul_kahate.pdf)
 - [Cryptography and Network Security — Forouzan](./CRYPTOGRAPHY/Forouzan.pdf)
@@ -100,7 +74,7 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>☁️ Cloud Computing </h2></summary>
+<summary><h2>☁️ Cloud Computing <sub>(8)</sub></h2></summary>
 
 - [Amazon Web Services in Action](<./Cloud Computing/Amazon Web Services in Action.pdf>)
 - [Cloud Computing: Principles and Paradigms](<./Cloud Computing/CLOUD COMPUTING Principles and Paradigms.pdf>)
@@ -113,20 +87,20 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>⚙️ Compiler </h2></summary>
+<summary><h2>⚙️ Compiler <sub>(1)</sub></h2></summary>
 
 - [Compilers: Principles, Techniques, and Tools (2nd Ed.) — Aho](<./Compiler/Aho - Compilers - Principles, Techniques, and Tools 2e-1.pdf>)
 </details>
 
 <details>
-<summary><h2>🗄️ DBMS </h2></summary>
+<summary><h2>🗄️ DBMS <sub>(2)</sub></h2></summary>
 
 - [Fundamentals of Database Systems](<./DBMS/Fundamentals of Database Systems.pdf>)
 - [Database Systems: A Practical Approach to Design, Implementation and Management (6th Global Ed.)](<./DBMS/Pearson.Database.Systems.A.Practical.Approach.to.Design.Implementation.and.Management.6th.Global.Edition.pdf>)
 </details>
 
 <details>
-<summary><h2>🔁 DevOps </h2></summary>
+<summary><h2>🔁 DevOps <sub>(7)</sub></h2></summary>
 
 - [Accelerate — Building and Scaling High Performing Technology Organisations](<./DevOps/Accelerate - Building and Scaling High Performing Technology Organisations - Nicole Fergrson.pdf>)
 - [Site Reliability Engineering](<./DevOps/Site Reliability Engineering.pdf>)
@@ -138,14 +112,14 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>➗ Discrete Mathematics </h2></summary>
+<summary><h2>➗ Discrete Mathematics <sub>(2)</sub></h2></summary>
 
 - [Discrete Mathematics](<./Discrete Mathemaics/DiscreteMathematics.pdf>)
 - [Graph Theory with Applications to Engineering](<./Discrete Mathemaics/Graph_Theory_With_Applications_To_Engine.pdf>)
 </details>
 
 <details>
-<summary><h2>🐹 Golang </h2></summary>
+<summary><h2>🐹 Golang <sub>(4)</sub></h2></summary>
 
 - [Go: Building Web Applications](<./Golang/Go building web application.pdf>)
 - [The Go Bible](<./Golang/Go_byble_book.pdf>)
@@ -154,14 +128,14 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>☕ Java </h2></summary>
+<summary><h2>☕ Java <sub>(2)</sub></h2></summary>
 
 - [Effective Java](<./JAVA/Effective Java.pdf>)
 - [Java: The Complete Reference](<./JAVA/Java the Complete Reference.pdf>)
 </details>
 
 <details>
-<summary><h2>🐧 Linux </h2></summary>
+<summary><h2>🐧 Linux <sub>(8)</sub></h2></summary>
 
 - [How Linux Works: What Every Superuser Should Know](<./LINUX/HOW LINUX WORKS WHAT EVERY SUPERUSER SHOULD KNOW.pdf>)
 - [Learning Modern Linux](<./LINUX/Learning Modern Linux .pdf>)
@@ -174,7 +148,7 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>🌐 Networking </h2></summary>
+<summary><h2>🌐 Networking <sub>(4)</sub></h2></summary>
 
 - [Data Communications and Networking — Forouzan](<./Networking/(McGraw-Hill Forouzan Networking) Behrouz A. Forouzan - Data Communications and Networking -McGraw-Hill Higher Education (2007).pdf>)
 - [The HTTP Book](./Networking/HTTP_book.pdf)
@@ -183,14 +157,14 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>🖥️ OS </h2></summary>
+<summary><h2>🖥️ OS <sub>(2)</sub></h2></summary>
 
 - [Operating System Concepts (9th Ed.) — Silberschatz](<./OS/Abraham Silberschatz-Operating System Concepts (9th,2012_12).pdf>)
 - [Distributed Operating Systems: Concepts and Design — Sinha](<./OS/Pradeep K. Sinha - Distributed Operating Systems_ Concepts and Design-Wiley-IEEE Press (1996).pdf>)
 </details>
 
 <details>
-<summary><h2>🐍 Python </h2></summary>
+<summary><h2>🐍 Python <sub>(3)</sub></h2></summary>
 
 - [Introduction to Python Programming](<./Python/Introduction_to_Python_Programming.pdf>)
 - [Learning Python](./Python/Learning_Python.pdf)
@@ -198,13 +172,13 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>🦀 Rust </h2></summary>
+<summary><h2>🦀 Rust <sub>(1)</sub></h2></summary>
 
 - [The Rust Book](./RUST/The_Rust_Book.pdf)
 </details>
 
 <details>
-<summary><h2>🛠️ Software Engineering </h2></summary>
+<summary><h2>🛠️ Software Engineering <sub>(13)</sub></h2></summary>
 
 - [Algorithms — Illustrated](<./Software Engineering/Algorithms - Illustrated Programmers Curious.pdf>)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](<./Software Engineering/Clean Code A Handbook of Agile Software Craftsmanship.pdf>)
@@ -222,7 +196,7 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>🏗️ System Design </h2></summary>
+<summary><h2>🏗️ System Design <sub>(6)</sub></h2></summary>
 
 - [System Design Interview — Alex Xu](<./System Design/10-1 System Design Inteview by Alex xu.pdf>)
 - [System Design Interview, Vol. 2 — Alex Xu](<./System Design/10-2 System_Design_Interview Guides_Alex_Xu_Vol2.pdf>)
@@ -233,7 +207,7 @@ This repository is a personal library of Computer Science reference books, textb
 </details>
 
 <details>
-<summary><h2>🕸️ Web Dev </h2></summary>
+<summary><h2>🕸️ Web Dev <sub>(15)</sub></h2></summary>
 
 - [Eloquent JavaScript (3rd Ed.)](<./Web Dev/Eloquent_JavaScript_3rdEdition.pdf>)
 - [Head First JavaScript Programming](<./Web Dev/Head First JavaScript Programming.pdf>)
