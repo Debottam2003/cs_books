@@ -2,8 +2,6 @@
 
 <img src="./banner.svg" alt="CS Library banner" width="100%"/>
 
-![Books](https://img.shields.io/badge/books-91-blue?style=flat-square)
-![Topics](https://img.shields.io/badge/topics-19-brightgreen?style=flat-square)
 ![Format](https://img.shields.io/badge/format-PDF-red?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-success?style=flat-square)
 ![PRs](https://img.shields.io/badge/PRs-welcome-orange?style=flat-square)
